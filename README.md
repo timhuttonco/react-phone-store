@@ -1,3 +1,5 @@
+React mobile web store - hosted on Netlify here https://th-react-phone-store.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
